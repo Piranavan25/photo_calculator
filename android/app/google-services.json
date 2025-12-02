@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926586580252",
+    "project_id": "photo-calculator-f795c",
+    "storage_bucket": "photo-calculator-f795c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926586580252:android:b714ec455a18e1faf45ed9",
+        "android_client_info": {
+          "package_name": "com.example.photo_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGN3SQ8YoS73XG-AkJfjpITv6r6towCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
